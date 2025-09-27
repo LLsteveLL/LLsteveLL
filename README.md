@@ -1,4 +1,4 @@
-# Hi, I’m Steve Qiu 👋  
+### Hi, I’m Steve Qiu 👋  
 
 🎓 Graduated from the University of Washington with a **B.A. in Mathematics** and an **M.S. in Computational Finance & Risk Management**.  
 
