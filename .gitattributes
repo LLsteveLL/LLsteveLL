@@ -1,0 +1,14 @@
+
+*.R linguist-detectable=true
+*.Rmd linguist-detectable=true
+
+
+venv/** linguist-vendored
+.venv/** linguist-vendored
+node_modules/** linguist-vendored
+dist/** linguist-vendored
+build/** linguist-vendored
+.ipynb_checkpoints/** linguist-vendored
+data/** linguist-vendored
+*.csv linguist-generated
+*.parquet linguist-generated
