@@ -8,4 +8,3 @@
 
 🏸 Outside of coding, I enjoy badminton, photography, and hiking.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLsteveLL)](https://github.com/LLsteveLL/github-readme-stats)
